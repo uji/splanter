@@ -1,4 +1,4 @@
-module github.com/kauche/splanter
+module github.com/uji/splanter
 
 go 1.20
 
